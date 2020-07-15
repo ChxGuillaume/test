@@ -1,2 +1,2 @@
 # test
-# test GPG
+# test GPG v2
